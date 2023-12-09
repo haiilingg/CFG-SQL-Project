@@ -3,7 +3,7 @@
 
 2. [Presentation Document](https://github.com/haiilingg/CFG-SQL-Project/blob/main/SQL%20Project-%20Restaurant%20Database%20(Hai%20Ling%20Tan).pdf)
 
-3. [Certificate of Completion] (https://github.com/haiilingg/CFG-SQL-Project/blob/main/CFG%20SQL%20Kickstarter%20Certificate.pdf)
+3. [Certificate of Completion](https://github.com/haiilingg/CFG-SQL-Project/blob/main/CFG%20SQL%20Kickstarter%20Certificate.pdf)
 
 # Theme: Restaurant Ordering Database
 This was the SQL Project I completed for Code First Girl's final presentation where I created 6 tables for a [restaurant ordering database](https://github.com/haiilingg/CFG-SQL-Project/blob/main/SQL%20Project-%20Restaurant%20Database%20(Hai%20Ling%20Tan).pdf)
