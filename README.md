@@ -15,4 +15,8 @@ Please refer to the ER diagram showing the relationship between different tables
 Despite facing some challenges while completing this project, I still enjoyed every bit of this project as it allows me to incorporate my creativity to come up with different ideas for creating logical queries.
 
 # Entity Relationship Diagram
+The Restaurant Ordering Database is designed to stores details about the orders placed, customer information, payment information, chef, menus offered and user information of the employees that created the order. 
+
+There are 6 tables in total, namely ORDERS, CUSTOMER, PAYMENT, USER, MENU and CHEF. 
+
 <img width="576" alt="CFG SQL ER Diagram" src="https://github.com/haiilingg/CFG-SQL-Project/assets/130296433/b84c0028-89cb-4e77-9696-892d58300fa9">
