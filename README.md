@@ -17,7 +17,7 @@ This is to ensure the accuracy and completeness of the order information for the
 
 Since the actual operations of a restaurant ordering system can be complicated, I've created a simplified database using the typical information that could be found in a restaurant's delivery database. The 6 tables created in this project covers the order, payment, customer, menu, user and chef detalls.
 
-Click [HERE](https://github.com/haiilingg/CFG-SQL-Project/blob/main/SQL%20Project-%20Restaurant%20Database%20(Hai%20Ling%20Tan).pdf) for the instructions used to create and run the queries within the database in MySQL.
+Click [HERE](https://github.com/haiilingg/CFG-SQL-Project/blob/main/SQL%20Project-%20Restaurant%20Database%20(Hai%20Ling%20Tan).pdf) for the database and code created in MySQL.
 
 # Entity Relationship Diagram
 The Restaurant Ordering Database is designed to stores details about the orders placed, customer information, payment information, chef, menus offered and user information of the employees that created the order. 
