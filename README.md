@@ -8,7 +8,7 @@
 # Theme: Restaurant Ordering Database
 This was the SQL Project I completed for Code First Girl's final presentation where I created 6 tables for a [restaurant ordering database](https://github.com/haiilingg/CFG-SQL-Project/blob/main/SQL%20Project-%20Restaurant%20Database%20(Hai%20Ling%20Tan).pdf)
 
-![SQL Project- Restaurant Database (HLT)](https://github.com/haiilingg/CFG-SQL-Project/assets/130296433/6b1dc267-e5d8-41bf-aaa5-9925e19032ea)
+![online ordering restaurant](https://github.com/haiilingg/CFG-SQL-Project/assets/130296433/46ef0043-515c-42fb-9e1f-d0e92d2dfc2e)
 
 # Project Overview
 I've chosen the restaurant ordering system as my theme for this project as this is one of the areas I'm most interested in a sIreally enjoy eating good food at restaurants.
