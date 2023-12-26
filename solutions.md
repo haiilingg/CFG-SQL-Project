@@ -96,12 +96,11 @@ END //
 DELIMITER ;
 
 CALL Rating('RIZAL',3,'Improvement neeeded.');
-CALL Rating('RACHEL',4,'Keep it up!');
-CALL Rating('TAMMY',5,'Excellent!');
-CALL Rating('AMIRAH',3,'You can do better.');
-CALL Rating('ADAM',4,'Awesome job!');
 ```
 
+FullRating
+|----------|
+RIZAL,3,Improvement neeeded.
 
 
 ### EVENT 
@@ -128,6 +127,13 @@ DELIMITER ;
 
 SELECT * FROM DELIVERY_EVENT;
 ```
+
+Output:
+| ID | DEPARTURE_TIME|
+|---|---|
+| 1  |2023-08-29 01:08:56|
+| 2 |2023-08-29 01:38:56|
+
 
 ### Query with GROUP BY and HAVING 
 #### Quantity of non self-pickup orders by mode of delivery
