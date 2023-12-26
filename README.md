@@ -1,9 +1,11 @@
-### tldr
-1. [SQL Code](https://github.com/haiilingg/CFG-SQL-Project/blob/main/CFG%20SQL%20Project-Hai%20Ling%20Tan.sql)
+### Table of contents
+1. [SQL Solutions]()
 
 2. [Presentation Document](https://github.com/haiilingg/CFG-SQL-Project/blob/main/SQL%20Project-%20Restaurant%20Database%20(Hai%20Ling%20Tan).pdf)
+   
+3. [SQL Script](https://github.com/haiilingg/CFG-SQL-Project/blob/main/CFG%20SQL%20Project-Hai%20Ling%20Tan.sql)
 
-3. [Certificate of Completion](https://github.com/haiilingg/CFG-SQL-Project/blob/main/CFG%20SQL%20Kickstarter%20Certificate.pdf)
+4. [Certificate of Completion](https://github.com/haiilingg/CFG-SQL-Project/blob/main/CFG%20SQL%20Kickstarter%20Certificate.pdf)
 
 # Theme: Restaurant Ordering Database
 This was the SQL Project I completed for Code First Girl's final presentation where I created 6 tables for a [restaurant ordering database](https://github.com/haiilingg/CFG-SQL-Project/blob/main/SQL%20Project-%20Restaurant%20Database%20(Hai%20Ling%20Tan).pdf)
@@ -19,7 +21,7 @@ This is to ensure the accuracy and completeness of the order information for the
 
 Since the actual operations of a restaurant ordering system can be complicated, I've created a simplified database using the typical information that could be found in a restaurant's delivery database. The 6 tables created in this project covers the order, payment, customer, menu, user and chef detalls.
 
-Click [HERE](https://github.com/haiilingg/CFG-SQL-Project/blob/main/SQL%20Project-%20Restaurant%20Database%20(Hai%20Ling%20Tan).pdf) for the database and code created in MySQL.
+Click [HERE](https://github.com/haiilingg/CFG-SQL-Project/blob/main/SQL%20Project-%20Restaurant%20Database%20(Hai%20Ling%20Tan).pdf) for presentation document.
 
 ### Entity Relationship Diagram
 The Restaurant Ordering Database is designed to stores details about the orders placed, customer information, payment information, chef, menus offered and user information of the employees that created the order. 
