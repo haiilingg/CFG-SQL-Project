@@ -1,5 +1,5 @@
 ### Table of contents
-1. [SQL Solutions]()
+1. [SQL Solutions](https://github.com/haiilingg/CFG-SQL-Project/blob/main/solutions.md)
 
 2. [Presentation Document](https://github.com/haiilingg/CFG-SQL-Project/blob/main/SQL%20Project-%20Restaurant%20Database%20(Hai%20Ling%20Tan).pdf)
    
